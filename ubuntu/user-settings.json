@@ -1,0 +1,40 @@
+{
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+        "activityBarBadge.background": "#64FFDA",
+        "list.activeSelectionForeground": "#64FFDA",
+        "list.inactiveSelectionForeground": "#64FFDA",
+        "list.highlightForeground": "#64FFDA",
+        "scrollbarSlider.activeBackground": "#64FFDA50",
+        "editorSuggestWidget.highlightForeground": "#64FFDA",
+        "textLink.foreground": "#64FFDA",
+        "progressBar.background": "#64FFDA",
+        "pickerGroup.foreground": "#64FFDA",
+        "tab.activeBorder": "#64FFDA",
+        "notificationLink.foreground": "#64FFDA"
+    },
+    "materialTheme.cache.workbench.settings": {
+        "accent": "Bright Teal"
+    },
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0, 
+    "editor.tabSize": 2,
+    "cSpell.userWords": [
+        "DEVTOOLS",
+        "Segoe",
+        "closests",
+        "didnt",
+        "pushable",
+        "sopo",
+        "superset",
+        "uncurry"
+    ],
+    "workbench.activityBar.visible": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all"
+}
