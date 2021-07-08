@@ -22,23 +22,32 @@
     "editor.wordWrap": "on",
     "workbench.colorTheme": "Material Theme Ocean High Contrast",
     "editor.renderWhitespace": "all",
-    "window.zoomLevel": 1, 
+    
     "editor.tabSize": 2,
     "cSpell.userWords": [
         "DEVTOOLS",
+        "Hashable",
         "Indicies",
         "Postgres",
         "Segoe",
+        "agnostified",
         "allowlist",
         "closests",
         "cwise",
+        "dagre",
         "didnt",
+        "gtag",
+        "hashless",
+        "layoutable",
+        "localforage",
         "ndarray",
+        "nessecairily",
         "normies",
         "numjs",
         "numpy",
         "optiongroup",
         "pushable",
+        "serializable",
         "sopo",
         "superset",
         "supersets",
@@ -63,6 +72,13 @@
     "[typescript]": {
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
+    "typescript.tsserver.maxTsServerMemory": 5072,
+    "window.zoomLevel": 2,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.format.enable": true,
     // "tslint.autoFixOnSave": true,
     // "editor.formatOnSave": true,
     // "[typescript]": {
