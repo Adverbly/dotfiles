@@ -17,6 +17,7 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="powerlevel10k/powerlevel10k"
 
 alias dc="docker-compose"
+alias vi="nvim"
 
 # Set list of themes to load
 # Setting this variable when ZSH_THEME=random
