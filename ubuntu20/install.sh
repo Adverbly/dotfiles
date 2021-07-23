@@ -29,6 +29,7 @@ sudo apt-get install -y \
     lsb-release
 sudo apt install -y libnss3-tools
 sudo apt install -y hub
+sudo apt-get install awscli
 
 
 # install docker
@@ -115,4 +116,8 @@ ln -s "$(pwd)/init.vim" $HOME/.config/nvim/init.vim
 
 # increase file watcher limit
 echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+
+# I dont use multiple workspaces, but want alt control left/right available for hotkeys
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-left "[]"
+gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-right "[]"
 
