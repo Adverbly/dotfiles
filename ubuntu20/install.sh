@@ -30,6 +30,14 @@ sudo apt-get install -y \
 sudo apt install -y libnss3-tools
 sudo apt install -y hub
 sudo apt-get install awscli
+sudo apt install python3.8-distutils
+sudo apt-get install jq
+
+# install peek - gif recorder
+sudo add-apt-repository ppa:peek-developers/stable
+sudo apt update
+sudo apt install peek
+
 
 
 # install docker

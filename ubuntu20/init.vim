@@ -42,6 +42,10 @@ set completeopt=menuone,noinsert,noselect
 set signcolumn=yes
 set colorcolumn=80
 set signcolumn=yes
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set softtabstop=4
 
 set mouse=a
 set ttyfast
