@@ -1,0 +1,92 @@
+{
+    "gitlens.advanced.messages": {
+      "suppressShowKeyBindingsNotice": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorCustomizations": {
+      "activityBarBadge.background": "#64FFDA",
+      "list.activeSelectionForeground": "#64FFDA",
+      "list.inactiveSelectionForeground": "#64FFDA",
+      "list.highlightForeground": "#64FFDA",
+      "scrollbarSlider.activeBackground": "#64FFDA50",
+      "editorSuggestWidget.highlightForeground": "#64FFDA",
+      "textLink.foreground": "#64FFDA",
+      "progressBar.background": "#64FFDA",
+      "pickerGroup.foreground": "#64FFDA",
+      "tab.activeBorder": "#64FFDA",
+      "notificationLink.foreground": "#64FFDA"
+    },
+    "materialTheme.cache.workbench.settings": {
+      "accent": "Bright Teal"
+    },
+    "editor.wordWrap": "on",
+    "workbench.colorTheme": "Material Theme Ocean High Contrast",
+    "editor.renderWhitespace": "all",
+  
+    "editor.tabSize": 2,
+    "editor.bracketPairColorization.enabled": true,
+    "cSpell.userWords": [
+      "DEVTOOLS",
+      "Hashable",
+      "Indicies",
+      "Postgres",
+      "Segoe",
+      "agnostified",
+      "allowlist",
+      "closests",
+      "cwise",
+      "dagre",
+      "didnt",
+      "gtag",
+      "hashless",
+      "layoutable",
+      "localforage",
+      "ndarray",
+      "nessecairily",
+      "normies",
+      "numjs",
+      "numpy",
+      "optiongroup",
+      "pushable",
+      "serializable",
+      "sopo",
+      "superset",
+      "supersets",
+      "tagmap",
+      "testid",
+      "tolist",
+      "uncurry",
+      "undoable",
+      "vizindev",
+      "wordtree"
+    ],
+    "workbench.activityBar.visible": true,
+    // "prettier.singleQuote": true,
+    // "prettier.trailingComma": "all",
+    "sync.gist": "a31d00ef0c89d14b51bf1fab3c4535eb",
+    "workbench.statusBar.visible": true,
+    "typescript.tsserver.log": "verbose",
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.insertFinalNewline": true,
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.tsserver.maxTsServerMemory": 5072,
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "eslint.format.enable": true,
+    "jestrunner.jestCommand": "TZ=EST npx react-app-rewired test",
+    "window.zoomLevel": 3,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+    // "tslint.autoFixOnSave": true,
+    // "editor.formatOnSave": true,
+    // "[typescript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    // "editor.defaultFormatter": "eg2.tslint"
+  }
+  
