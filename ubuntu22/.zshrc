@@ -145,18 +145,3 @@ source /usr/share/doc/fzf/examples/completion.zsh
 
 eval "$(direnv hook zsh)"
 
-
-[[ -s "/home/george/.gvm/scripts/gvm" ]] && source "/home/george/.gvm/scripts/gvm"
-
-# Created by `pipx` on 2023-06-16 18:34:48
-export PATH="$PATH:/home/george/.local/bin"
-
-# bun completions
-[ -s "/home/george/.bun/_bun" ] && source "/home/george/.bun/_bun"
-
-# bun
-export BUN_INSTALL="$HOME/.bun"
-export PATH="$BUN_INSTALL/bin:$PATH"
-export PYENV_ROOT="$HOME/.pyenv"
-[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
-eval "$(pyenv init -)"
